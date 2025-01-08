@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nishanthjadav a current freshman at Villanova University studying Computer Science
-- 👀 I’m interested in algorithmic programming as well as cybersecurity, web development, and math
+- 👋 Hi, I’m @nishanthjadav a current freshman at Villanova University double majoring in Computer Science and Mathematics
+- 👀 I’m interested in web development, math, and algorithmic programming
 - 🌱 I’m currently learning Java and Python
-- 📫 How to reach me -  Instagram: @nishanth._j  LinkedIn: Nishanth Jadav
+- 📫 How to reach me -  Email: nishanthjadav@gmail.com  LinkedIn: www.linkedin.com/in/nishanth-jadav-7414a2260
 - 😄 Pronouns: He/Him
 
