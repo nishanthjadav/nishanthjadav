@@ -49,5 +49,5 @@ Junior @ Villanova University double majoring in Computer Science + Math.
 ---
 
 ## Connect With Me
-- **Portfolio:** [nishanthjadav.com](https://nishanthjadav.com)
+- **Email:** nishanthjadav@gmail.com
 - **LinkedIn:** [Nishanth Jadav](https://www.linkedin.com/in/nishanthjadav/)
