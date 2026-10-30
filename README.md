@@ -3,7 +3,7 @@ Portfolio: https://nishanthjadav.com
 
 Junior @ Villanova University double majoring in Computer Science + Math.
 
-**Member of Technical Staff, Intern @ [Abridge]([https://www.linkedin.com/company/sap](https://www.linkedin.com/company/abridgehq/posts/?feedView=all)/):**  Clinician Documentation Integrity.
+**Member of Technical Staff, Intern @ [Abridge](https://www.linkedin.com/company/sap](https://www.linkedin.com/company/abridgehq/posts/?feedView=all)/):**  Clinician Documentation Integrity.
 
 **Software Engineering Intern @ [SAP](https://www.linkedin.com/company/sap/):** Kubernetes infrastructure + general SWE.
 
