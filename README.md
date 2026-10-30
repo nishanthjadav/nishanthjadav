@@ -6,8 +6,8 @@ Junior @ Villanova University, double majoring in Computer Science + Math.
 
 ### Current Roles
 
-- **Member of Technical Staff, Intern** @ [Abridge](https://www.linkedin.com/company/abridgehq/) — Clinician Documentation Integrity
-- **Software Engineering Intern** @ [SAP](https://www.linkedin.com/company/sap/) — Kubernetes infrastructure + general SWE
+- **Member of Technical Staff, Intern** @ [Abridge](https://www.linkedin.com/company/abridgehq/): Clinician Documentation Integrity
+- **Software Engineering Intern** @ [SAP](https://www.linkedin.com/company/sap/): Kubernetes infrastructure + general SWE
 
 ### Other Roles
 
