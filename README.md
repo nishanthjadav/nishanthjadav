@@ -3,7 +3,9 @@ Portfolio: https://nishanthjadav.com
 
 Junior @ Villanova University double majoring in Computer Science + Math.
 
-**Software Engineering Intern @ [SAP](https://www.linkedin.com/company/sap/):**  Currently working on Kubernetes infrastructure + general SWE.
+**Member of Technical Staff, Intern @ [Abridge]([https://www.linkedin.com/company/sap](https://www.linkedin.com/company/abridgehq/posts/?feedView=all)/):**  Clinician Documentation Integrity.
+
+**Software Engineering Intern @ [SAP](https://www.linkedin.com/company/sap/):** Kubernetes infrastructure + general SWE.
 
 **Other Roles:** [SAR CNN](https://www.mathworks.com/help/radar/ug/sar-target-classification-using-deep-learning.html) Research @ Villanova · Prev SWE Intern @ [Frigate](https://www.linkedin.com/company/frigateglobal/) · Villanova Club Badminton President.
 
